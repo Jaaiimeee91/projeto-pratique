@@ -1,4 +1,4 @@
-
+package com.mycompany.pratique.jaime.silva;
 import java.io.Serializable;
 
 public class User implements Serializable {

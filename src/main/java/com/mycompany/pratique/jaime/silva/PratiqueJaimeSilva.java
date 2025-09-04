@@ -1,4 +1,5 @@
-
+package com.mycompany.pratique.jaime.silva;
+import com.mycompany.pratique.jaime.silva.EventManager;
 import java.util.Scanner;
 
 public class PratiqueJaimeSilva {
